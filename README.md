@@ -1,2 +1,2 @@
 # KERALA-LOTTERY
-Prediction in next first winner
+Prediction in as kerala lottery winners
