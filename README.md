@@ -1,2 +1,2 @@
 # KERALA-LOTTERY
- Winning Prediction in  kerala lottery winners
+ Winning Prediction in  kerala lottery numbers
